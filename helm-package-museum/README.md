@@ -1,4 +1,4 @@
-This example demonstrates how to pakcge a Helm chart, and push the packge into a Helm repository based on Chart Museum.  
+This example demonstrates how to package a Helm chart, and push the package into a Helm repository based on Chart Museum.  
 
 Chart Museum is a Helm repository server that has an HTTP API, pluggable backends, Authentication, and more. More about it [here](https://github.com/kubernetes-helm/chartmuseum).
 For the sake of this example, we assume you already have a Chart Museum server pre-installed.
